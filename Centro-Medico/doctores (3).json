@@ -1,0 +1,77 @@
+[
+    {
+        "especialidad": "Pediatria",
+        "doctores": [
+            {   
+                "id": 4568654864,
+                "nombre": "Juan Rivera",
+                "email": "juanrivera@gmail.com",
+                "nconsultorio": "1",
+                "horario": [
+                    "Mañana: 6.00 am - 12.00 pm",
+                    "Tarde: 2.00 pm - 6.00 pm"
+                ]
+            } 
+        ]
+    },
+    {
+        "especialidad": "Ginecologia",
+        "doctores": [
+            {   
+                "id": 4509986659,
+                "nombre": "Jose Perez",
+                "email": "joseperez@gmail.com",
+                "nconsultorio": "2",
+                "horario": [
+                    "Mañana: 6.00 am - 12.00 pm",
+                    "Tarde: 2.00 pm - 6.00 pm"
+                ]
+            } 
+        ]
+    },
+    {
+        "especialidad": "Dermatologia",
+        "doctores": [
+            {   
+                "id": 7655654544,
+                "nombre": "Roberto Gonzalez",
+                "email": "roberto@gmail.com",
+                "nconsultorio": "3",
+                "horario": [
+                    "Mañana: 6.00 am - 12.00 pm",
+                    "Tarde: 2.00 pm - 6.00 pm"
+                ]
+            } 
+        ]
+    },
+    {
+        "especialidad": "Endocrinologia",
+        "doctores": [
+            {   
+                "id": 8546768998,
+                "nombre": "Carlos Albornoz",
+                "email": "carlosalbor@gmail.com",
+                "nconsultorio": "4",
+                "horario": [
+                    "Mañana: 6.00 am - 12.00 pm",
+                    "Tarde: 2.00 pm - 6.00 pm"
+                ]
+            } 
+        ]
+    },
+    {
+        "especialidad": "Optometria",
+        "doctores": [
+            {   
+                "id": 5874568373,
+                "nombre": "Miguel Sanchez",
+                "email": "miguel@gmail.com",
+                "nconsultorio": "5",
+                "horario": [
+                    "Mañana: 6.00 am - 12.00 pm",
+                    "Tarde: 2.00 pm - 6.00 pm"
+                ]
+            } 
+        ]
+    }
+]
